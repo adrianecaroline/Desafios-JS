@@ -1,4 +1,4 @@
-# Desafios Javascript  
+# Desafios Javascript  ![js (1)](https://user-images.githubusercontent.com/97626768/172022775-5118ec18-165c-44cc-bf68-55dc059cca16.png)
 
 ### 3 desafios em Javascript envolvendo:
 - Operadores: aritméticos, lógicos, comparação;

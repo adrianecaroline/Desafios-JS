@@ -8,11 +8,7 @@ Exibir os 100 primeiros números da sequência da acima.
 2.Se somar o segundo valor e o resultado da soma anterior,  o novo resultado será 2, e assim por diante.
 */
 
-// os numeros exbidos tem q ser <= 100.
-//var valorUm = 0;
-//var valorDois = 1;
-//var valorTres = valorUm + valor2;
-//valorUm = valorDois && valorDois = valorTres
+
 
 function fibonacci (){
     
